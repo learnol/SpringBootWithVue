@@ -23,7 +23,6 @@ import com.example.springbootvue.springBootVueApplication.service.CoursesHardcod
 @RestController
 public class CourseController {
 
-
 		@Autowired
 		private CoursesHardcodedService courseManagementService;
 
